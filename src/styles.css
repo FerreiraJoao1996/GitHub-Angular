@@ -1,0 +1,18 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    background-color: #0d1117;
+}
+
+.full { max-width: 100%; width: 100%; }
+
+.js { color: rgb(241, 224, 90)}
+.ts {color: rgb(49, 120, 198);}
+.html { color: rgb(227, 76, 38);}
+.css{ color: rgb(86, 61, 124); }
+.cmais{ color: rgb(243, 75, 125); }
+.ejs {color: rgb(169, 30, 80); }
+.python { color: rgb(53, 114, 165); }
+.shell {color: rgb(137, 224, 81) }
+.docker { color: rgb(56, 77, 84); }
+.java {color: rgb(176, 114, 25);}
